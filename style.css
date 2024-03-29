@@ -1,0 +1,220 @@
+
+.first
+{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.up
+{
+    background-color: rgba(0,0,0,0.6);
+    height:30%;
+}
+.blue
+{
+    width:7%;
+    height:13px;
+    background-color:#0bb5ff;
+    position: relative;
+    left:6%;
+    bottom:-25px;
+}
+.u
+{
+    font-size:100px;
+    position: relative;
+    left:5%;
+    color: white;
+    
+}
+.softs
+{
+    color: white;
+    font-size: 20px;
+    position: relative;
+    bottom:30px;
+    left:6%;
+}
+.language
+{
+    background-color:rgba(128,128,128,0.6);
+    padding: 5% 2% 5% 5% ;
+   
+   
+}
+.bullet-list
+{
+    color: white;
+    font-size: 40px;
+    list-style-type: none;
+}
+.bullet-list li
+{
+    text-align: right; 
+       
+}
+      
+.bullet-list li::after
+{
+    content:"\25A0";
+    margin-left:20px; 
+}
+
+.learn
+{
+    background-color:rgba(255,211,25,0.6);
+    font-size:70;
+    color: white;
+    padding:3% 3% 3% 6%;    
+}
+@media screen and (max-width:1100px)
+{
+    .learn
+    {
+        font-size:45px;
+    }
+}
+.program
+{
+     position: relative;
+     bottom:30px;
+}
+
+.address
+{
+    margin: 0 0;
+    padding:5%;
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+    text-align: right;
+   
+}
+.one
+{
+    font-size: 60px;
+    color:tomato;
+    padding-left:6%;
+}
+.start
+{
+    font-size:35px;
+    color:rgba(128,128,128);
+    padding-left:6%;
+}
+.end
+{
+    font-size:35px;
+    color:rgba(128,128,128);
+   
+}
+.text
+{
+    color:rgba(128,128,128);
+    font-size: 30px;
+    padding-left: 6%;
+}
+.text1
+{
+    color:gray;
+    font-size: 30px;
+    padding-left: 6%;
+    position: relative;
+    bottom:5%;
+}
+
+.img
+{
+    width:30%;
+    height:30%;
+    color: white;
+}
+.code
+{
+    background-color: #0bb5ff;
+    
+}
+.coded
+{
+    font-size:25px;
+    position: relative;
+    left:135%;
+    top:-100%;    
+}
+.logo
+{
+    position: relative;
+    left:135%;
+    top:-110%;  
+    font-size:11px;   
+}
+.image
+{
+    margin-top:40%;
+    margin-left:30%;
+}
+.our-company
+{
+    color: tomato;
+    font-size:30px;
+    padding-left:6%;
+    position: relative;
+    top:5%;
+}
+.coded-co
+{
+    font-size:50px;
+    color:#808588;
+    padding-left:6%;
+}
+.co
+{
+    font-size:20px;
+    position: relative;
+   bottom:20px;
+}
+.about
+{
+    color: #808588;
+}
+.para
+{
+    padding-left: 6%;
+    text-align: justify;
+   
+}
+.about-us
+{
+    background-color:rgba(128,128,128,0.2);
+    border-bottom:8px solid tomato;
+    color: #808588;
+}
+.reward
+{
+    text-align: right;
+    padding-right: 5%;
+    padding-left: 6%;
+}
+.second
+{
+    color: #0bb5ff;
+    font-size:60px;
+    padding-top: 20%;
+    position: relative;
+    top:5%;
+}
+@media  only screen and (max-width:1199px)
+{
+    .second
+    {
+        font-size: 45px;
+        position: relative;
+        top:3%;
+    }
+}
+.reward-text
+{
+    text-align: justify;
+}
+
+
+
